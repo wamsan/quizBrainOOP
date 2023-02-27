@@ -1,4 +1,4 @@
-#main .py file where object is constructed
+#main .py file where object is constructed and question bank is created
 from question_model import Question
 from data import question_data
 from quiz_brain import QuizBrain
